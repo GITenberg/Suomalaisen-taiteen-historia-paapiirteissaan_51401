@@ -1,0 +1,27 @@
+_repo: Suomalaisen-taiteen-historia-paapiirteissaan_51401
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aspelin-Haapkylä, Eliel
+    aliases:
+    - Aspelin, Eliel
+    - Aspelin-Haapkyla, Eliel
+    birthdate: 1847
+    deathdate: 1917
+    gutenberg_agent_id: '42975'
+    url: http://www.gutenberg.org/2009/agents/42975
+description: ''
+gutenberg_issued: '2016-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51401'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art, Finnish -- History'
+- !lcc 'N'
+- GITenberg
+title: Suomalaisen taiteen historia pääpiirteissään
+url: http://www.gutenberg.org/ebooks/51401
